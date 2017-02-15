@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo yum install php 
+sudo yum -y install php 
